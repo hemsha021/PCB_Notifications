@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notifications</string>
+
+    <string name="simple_channel_name">Simple Notification</string>
+    <string name="simple_channel_description">Channel for Simple Notification</string>
+
+    <string name="action_channel_name">Action Notification</string>
+    <string name="action_channel_description">Channel for Action Notification</string>
+
+    <string name="expandable_channel_name">Expandable Notification</string>
+    <string name="expandable_channel_description">Channel for Expandable Notification</string>
+
+    <string name="group_channel_name">Group Notification</string>
+    <string name="group_channel_description">Channel for Group Notification</string>
+
+    <string name="foreground_channel_name">Foreground Service Notification</string>
+    <string name="foreground_channel_description">Channel for Foreground Service Notification</string>
+
+    <string name="activity_channel_name">Activity Notification</string>
+    <string name="activity_channel_description">Channel for Activity Notification</string>
+
+</resources>
